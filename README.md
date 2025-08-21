@@ -8,10 +8,12 @@ Search student by ID
 Update student information
 Delete student records
 Exit the program
+
 🧰 Technologies Used
 Python 3.x
 No external libraries required (standard library only)
 Data is stored in memory using a list of dictionaries
+
 🚀 How to Run
 Make sure Python is installed.
 You can check by running:
